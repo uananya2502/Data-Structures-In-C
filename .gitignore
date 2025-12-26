@@ -1,9 +1,13 @@
 # Ignore compiled binaries
 Linked-List/Linked-List
-# Stack binaries
-stack/Stack
-stack_ll/StackLL
+Stack/Stack
+Stack_ll/StackLL
+Queue/Queue
+Queue_ll/QueueLL
+Tree/Tree
+Hash-Table/HashTable
 
+# Ignore common compiled files
 *.out
 *.exe
 
