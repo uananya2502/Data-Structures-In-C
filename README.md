@@ -65,6 +65,7 @@ Data-Structures-In-C/
 │
 ├── .gitignore
 └── README.md
+```
 
 ## Implemented Data Structures
 
