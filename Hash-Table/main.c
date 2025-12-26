@@ -8,7 +8,7 @@ int main() {
     initHashTable(&ht);
 
     while (1) {
-        printf("\n===== HASH TABLE MENU =====\n");
+        printf("\nHASH TABLE MENU\n");
         printf("1. Insert\n");
         printf("2. Delete\n");
         printf("3. Search\n");
