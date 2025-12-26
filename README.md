@@ -107,6 +107,7 @@ Example:
 cd Linked-List
 gcc main.c list.c -o LinkedList
 ./LinkedList
+``` 
 
 ## Design Notes
 - Wrapper structures are used to avoid direct manipulation of internal pointers in `main`
