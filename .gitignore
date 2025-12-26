@@ -1,5 +1,9 @@
 # Ignore compiled binaries
 Linked-List/Linked-List
+# Stack binaries
+stack/Stack
+stack_ll/StackLL
+
 *.out
 *.exe
 
